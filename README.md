@@ -1,5 +1,5 @@
 # Hello 👋
-- I am an undergraduate student at CU Boulder 
+- I am an undergraduate student in US
 - I'm learning ML Engineering and DevOps
 
 
