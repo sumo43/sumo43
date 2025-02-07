@@ -30,7 +30,7 @@ At Brium AI, I worked on accelerating inference for large language models across
 ### **RunPod**
 **Role:** ML Engineer  
 **Overview:**  
-At RunPod, I focused on fine-tuning state-of-the-art models for mathematical tasks and built an in-house inference engine that supports low-latency workloads with speculative decoding. I also collaborated closely with customers to deploy AI models effectively on the RunPod stack.
+At RunPod, I built an in-house inference engine that supports low-latency workloads with speculative decoding. I also collaborated closely with customers to deploy AI models effectively on the RunPod stack.
 
 ---
 
