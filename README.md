@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm interested in AI, with a focus on inference and post-training of AI models. Follow me on [Twitter @sumo43_](https://twitter.com/sumo43_) for updates and discussions about the latest in AI research and development.
+I'm interested in AI, with a focus on inference and post-training of language models, vision-language models and generative diffusion models. Follow me on [Twitter @sumo43_](https://twitter.com/sumo43_) for updates on whatever i may be working on.
 
 ---
 
@@ -9,7 +9,7 @@ I'm interested in AI, with a focus on inference and post-training of AI models. 
 ### [loopVLM](https://github.com/sumo43/loopvlm)
 - **Demo:** [Object Detection Demo on X](https://x.com/sumo43_/status/1791589684121903555)  
 - **Description:**  
-  A fast paligemma inference engine running on the RTX 4090. I built an object detection demo using a 224px model that runs in real time at 16fps.
+  A fast paligemma inference engine running on the RTX 4090. I built an object detection demo using the siglip-224px model that runs in real time at 20fps.
 
 ### [RobotArena](https://x.com/skunkworks_ai/status/1825960894209425619)
 - **Description:**  
