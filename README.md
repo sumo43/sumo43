@@ -37,8 +37,6 @@ At RunPod, I built an in-house inference engine that supports low-latency worklo
 ## 📫 Get in touch
 
 - **Twitter:** [@sumo43_](https://twitter.com/sumo43_)
-- **Email:** *(Add your email here if you'd like to be contacted directly)*
-
-Feel free to reach out if you're interested in collaborating or just want to chat about AI, machine learning, and all things tech!
-
+- **Email:** artem@lmresearch.net
+  
 ---
